@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "common",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "axios": "^1.7.2",
-    "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "hono": "^4.4.9"
-  },
-  "devDependencies": {
-    "@types/express": "^4.17.21"
-  },
-  "description": ""
+    "zod": "^3.23.8"
+  }
 }
